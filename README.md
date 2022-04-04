@@ -13,5 +13,3 @@ You find 4 files:
 * GermanFunDB-Sources.csv : The Sources for Jokes in CSV-Format
 * GermanFunDB-OnlyJokes.txt : Only the jokes. One per line
 
-
-
